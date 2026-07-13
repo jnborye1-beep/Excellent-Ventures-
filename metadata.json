@@ -1,0 +1,6 @@
+{
+  "name": "Pageant Vote",
+  "description": "Beauty Pageant Voting App with simulated Mobile Money secure payment integration and live leaderboard vote counting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
